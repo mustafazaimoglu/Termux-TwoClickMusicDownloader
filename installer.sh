@@ -1,6 +1,6 @@
 echo '** Installer Started! **'
 
-termux-setup-storage
+yes | termux-setup-storage
 
 echo 'Please, approve the request!'
 
